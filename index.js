@@ -22,5 +22,4 @@ return kittens.concat('Broom');
 }
 
 function prependKitten(name){
-  return ().concat(kittens);
 }
