@@ -24,3 +24,7 @@ return kittens.concat('Broom');
 function prependKitten(name){
 return ['Arnold', ...kittens];
 }
+
+function removeLastKitten(){
+  kittens.slice()
+}
